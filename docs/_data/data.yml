@@ -1,0 +1,114 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Semere Ghebrechristos
+  tagline: Software Engineer
+  avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: sghebrechristos@gmail.com
+  phone:
+  website: semereg.github.io/publications/ #do not add http://
+  linkedin:
+  github: semereg
+  gitlab:
+  bitbucket:
+  twitter: ''
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  languages:
+    - idiom: English
+      level: Fluent
+
+    - idiom: Amheric/tigrigna
+      level: Native
+
+  interests:
+    - item: hiking
+      link:
+
+    - item: Basketball
+      link:
+
+    - item: Biking
+      link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+news:
+  title: News
+  intro: |
+
+
+  posts: #blogs
+    - time:
+      title:
+
+education:
+  - degree: Bachelor Degree
+    university: Colorado university @ Boulder
+    time: 2010 - 2015
+    details: |
+educationcomplete:
+  - degree: Applied Scientists Intern at Amazon AWS
+    university: P. Perona, Pasadena, CA, USA
+    time: 2019 - current
+    details: |
+
+publications:
+  title: Publications
+  intro: |
+
+  papers:
+    - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+      authors: B. Brattoli*, K. Roth*, B. Ommer
+      conference: ICCV, 2019
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+    - name: Python
+      level: 90%
+
+    - name: java
+      level: 90%
+
+    - name: Tensorflow
+      level: 20%
+
+    - name: javascript
+      level: 50%
+
+    - name: Matlab
+      level: 90%
+
+    - name: spring framework
+      level: 75%
+
+    - name: kafka
+      level: 75%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  © 2019 GitHub, Inc.
+  Terms
+  Privacy
+  Security
+  Status
+  Help
+  Contact GitHub
+  Pricing
+  API
+  Training
+  Blog
+  About
